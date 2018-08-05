@@ -8,7 +8,8 @@
   border: 0.5px solid grey;
   padding: 6px;
   margin: 0px;
-  background-color: orchid;  
+  background-color: orchid;
+  font-size: 18px  
 }
 .unimportant {
   background-color: purple
